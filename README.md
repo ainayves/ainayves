@@ -1,5 +1,6 @@
-<div align="justify">
  ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+ 
+<div align="justify">
   
 <a href="https://www.instagram.com/aina_rd/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">

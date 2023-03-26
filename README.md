@@ -1,5 +1,7 @@
+ <div align="center">
  ![](https://komarev.com/ghpvc/?username=ainayves&color=blueviolet)
- 
+</div> 
+
 <div align="center">
 
  <a href="https://www.linkedin.com/in/ainard/">
@@ -29,7 +31,7 @@ Welcome to my github profile. I am Aina Yves.
 ## My favorite tools and technologies ⚙️ 
 
 > Tools and technologies that I have worked with and am interested in
-<table>
+<table align="center>
  <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
@@ -55,7 +57,6 @@ Welcome to my github profile. I am Aina Yves.
       <br>Docker
     </td>
  
- <tr>
       <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" width="48" height="48" alt="Dart" />
       <br>Dart

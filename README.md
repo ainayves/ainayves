@@ -1,6 +1,6 @@
- <div align="center">
+
  ![](https://komarev.com/ghpvc/?username=ainayves&color=blueviolet)
-</div> 
+
 
 <div align="center">
 
@@ -32,6 +32,7 @@ Welcome to my github profile. I am Aina Yves.
 
 > Tools and technologies that I have worked with and am interested in
 <table align="center>
+ <tr>
  <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
@@ -52,6 +53,7 @@ Welcome to my github profile. I am Aina Yves.
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
       <br>GraphQL
     </td>
+                                                                                                            
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
@@ -61,10 +63,12 @@ Welcome to my github profile. I am Aina Yves.
         <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" width="48" height="48" alt="Dart" />
       <br>Dart
     </td>
+    
         <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" width="48" height="48" alt="Flutter" />
       <br>Flutter
     </td>
+    
         <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
@@ -81,6 +85,7 @@ Welcome to my github profile. I am Aina Yves.
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
       <br>JQuery
     </td>
+                                                                                            
  </tr>
 </table>
 

@@ -31,7 +31,7 @@ Welcome to my github profile. I am Aina Yves.
 ## My favorite tools and technologies ⚙️ 
 
 > Tools and technologies that I have worked with and am interested in
-<table align="center>
+<table align="center">
  <tr>
  <td align="center" width="96">
       <a href="#macropower-tech">

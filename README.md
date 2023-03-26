@@ -1,6 +1,6 @@
  ![](https://komarev.com/ghpvc/?username=ainayves&color=blueviolet)
  
-<div align="justify">
+<div align="center">
 
  <a href="https://www.linkedin.com/in/ainard/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
@@ -14,10 +14,6 @@
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
-
-
-
- 
 </div> 
 <p></p>
 <p align="justify"> 
@@ -59,7 +55,6 @@ Welcome to my github profile. I am Aina Yves.
       <br>Docker
     </td>
  
-  </tr>
  <tr>
       <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" width="48" height="48" alt="Dart" />

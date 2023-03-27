@@ -1,8 +1,8 @@
+ <center> ![](https://komarev.com/ghpvc/?username=ainayves&color=blueviolet)  </center>
+<div align="center">
 
 <div align="center">
- ![](https://komarev.com/ghpvc/?username=ainayves&color=blueviolet)
-<div align="center">
- <h2> Welcom to my Github profile , I am Aina Yves  👋. </2>
+ <h2> Welcome to my Github profile , I am Aina Yves  👋. </2>
 </div></br></br>
 
  <a href="https://www.linkedin.com/in/ainard/">

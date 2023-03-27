@@ -94,13 +94,7 @@ Welcome to my github profile. I am Aina Yves.
     width="90"
     height="90"
   />&nbsp;
-  <img
-    src="https://skillicons.dev/icons?i=css"
-    title="graphQL"
-    alt="graphQL"
-    width="90"
-    height="90"
-  />&nbsp;
+
   <img
     src="https://skillicons.dev/icons?i=bootstrap"
     title="bootstrap"

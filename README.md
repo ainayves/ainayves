@@ -25,8 +25,7 @@ Welcome to my github profile. I am Aina Yves.
 - 👯 I’m looking to collaborate on every Python opensource repo on Github
 - 📫 How to reach me: `randrianaina.yves@gmail.com`
  
-</p>
-<div align="center">
+</p><div align="center">
   <img
     src="https://techstack-generator.vercel.app/python-icon.svg"
     title="Python"
@@ -150,7 +149,7 @@ Welcome to my github profile. I am Aina Yves.
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
     title="Git"
-    **alt="Git"
+    alt="Git"
     width="90"
     height="90"
   />

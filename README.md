@@ -25,7 +25,8 @@ Welcome to my github profile. I am Aina Yves.
 - 👯 I’m looking to collaborate on every Python opensource repo on Github
 - 📫 How to reach me: `randrianaina.yves@gmail.com`
  
-</p><div align="center">
+</p>
+<div align="center">
   <img
     src="https://techstack-generator.vercel.app/python-icon.svg"
     title="Python"
@@ -42,26 +43,20 @@ Welcome to my github profile. I am Aina Yves.
   />&nbsp;
 
   <img
-    src="https://github.com/devicons/devicon/tree/master/icons/fastapi/fastapi-original.svg"
+    src="https://skillicons.dev/icons?i=fastapi"
     title="Fastapi"
     alt="Fastapi"
     width="90"
     height="90"
   />&nbsp;
   <img
-    src="https://github.com/devicons/devicon/tree/master/icons/flask/flask-original.svg"
+    src="https://skillicons.dev/icons?i=flask"
     title="Flask"
     alt="Flask"
     width="90"
     height="90"
   />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/tree/master/icons/anaconda/anaconda-original.svg"
-    title="Anaconda"
-    alt="Anaconda"
-    width="90"
-    height="90"
-  />&nbsp;
+
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"
     title="Tensorflow"
@@ -129,13 +124,6 @@ Welcome to my github profile. I am Aina Yves.
     src="https://skillicons.dev/icons?i=mysql"
     title="mysql"
     alt="mysql"
-    width="90"
-    height="90"
-  />&nbsp;
-  <img
-    src="https://techstack-generator.vercel.app/restapi-icon.svg"
-    title="REST"
-    alt="REST"
     width="90"
     height="90"
   />&nbsp;

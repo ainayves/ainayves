@@ -26,6 +26,8 @@ Welcome to my github profile. I am Aina Yves.
 - 📫 How to reach me: `randrianaina.yves@gmail.com`
  
 </p>
+
+## My favorite tools and technologies ⚙️ 
 <div align="center">
   <img
     src="https://techstack-generator.vercel.app/python-icon.svg"

@@ -26,98 +26,132 @@ Welcome to my github profile. I am Aina Yves.
 - 📫 How to reach me: `randrianaina.yves@gmail.com`
  
 </p>
-
-<div>
+<div align="center">
   <img
     src="https://techstack-generator.vercel.app/python-icon.svg"
     title="Python"
     alt="Python"
-    width="40"
-    height="40"
+    width="90"
+    height="90"
   />&nbsp;
   <img
     src="https://techstack-generator.vercel.app/django-icon.svg"
     title="Django"
     alt="Django"
-    width="40"
-    height="40"
+    width="90"
+    height="90"
+  />&nbsp;
+
+  <img
+    src="https://github.com/devicons/devicon/tree/master/icons/fastapi/fastapi-original.svg"
+    title="Fastapi"
+    alt="Fastapi"
+    width="90"
+    height="90"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/tree/master/icons/flask/flask-original.svg"
+    title="Flask"
+    alt="Flask"
+    width="90"
+    height="90"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/tree/master/icons/anaconda/anaconda-original.svg"
+    title="Anaconda"
+    alt="Anaconda"
+    width="90"
+    height="90"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"
+    title="Tensorflow"
+    alt="Tensorflow"
+    width="90"
+    height="90"
   />&nbsp;
   <img
     src="https://techstack-generator.vercel.app/js-icon.svg"
     title="JavaScript"
     alt="JavaScript"
-    width="40"
-    height="40"
+    width="90"
+    height="90"
   />&nbsp;
   <img
     src="https://techstack-generator.vercel.app/graphql-icon.svg"
     title="graphQL"
     alt="graphQL"
-    width="40"
-    height="40"
+    width="90"
+    height="90"
   />&nbsp;
   <img
     src="https://techstack-generator.vercel.app/restapi-icon.svg"
     title="REST"
     alt="REST"
-    width="40"
-    height="40"
+    width="90"
+    height="90"
   />&nbsp;
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"
     title="Flutter"
     alt="Flutter"
-    width="40"
-    height="40"
+    width="90"
+    height="90"
   />&nbsp;
   <img
     src="https://skillicons.dev/icons?i=css"
     title="graphQL"
     alt="graphQL"
-    width="40"
-    height="40"
+    width="90"
+    height="90"
   />&nbsp;
   <img
     src="https://skillicons.dev/icons?i=bootstrap"
     title="bootstrap"
     alt="bootstrap"
-    width="40"
-    height="40"
+    width="90"
+    height="90"
   />&nbsp;
   <img
     src="https://skillicons.dev/icons?i=postgres"
     title="postgres"
     alt="postgres"
-    width="40"
-    height="40"
+    width="90"
+    height="90"
   />&nbsp;
   <img
     src="https://skillicons.dev/icons?i=redis"
     title="redis"
     alt="redis"
-    width="40"
-    height="40"
+    width="90"
+    height="90"
   />&nbsp;
   <img
     src="https://skillicons.dev/icons?i=mysql"
     title="mysql"
     alt="mysql"
-    width="40"
-    height="40"
+    width="90"
+    height="90"
   />&nbsp;
   <img
     src="https://techstack-generator.vercel.app/restapi-icon.svg"
     title="REST"
     alt="REST"
-    width="40"
-    height="40"
+    width="90"
+    height="90"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
+    title="PHP"
+    alt="PHP"
+    width="90"
+    height="90"
   />&nbsp;
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
     title="Git"
     **alt="Git"
-    width="40"
-    height="40"
+    width="90"
+    height="90"
   />
 </div>
-
